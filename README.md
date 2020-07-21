@@ -2,7 +2,7 @@
 
 This is a Multi-Classification WebApp made using scikit-learn and frontend library Streamlit.
 
-To run this project:
+##To run this project:
 >- Install streamlit [pip install streamlit]
 >- Enter streamlit run Classification_app.py
 
